@@ -1,0 +1,18 @@
+{
+  "name": "Human Finder",
+  "version": "1.0.0",
+  "description": "a simple program to search people identity fastly use their username",
+  "main": "main.py",
+  "scripts": {
+    "start": "python3 main.py"
+  },
+  "keywords": [
+    "tools",
+    "python",
+    "python3",
+    "human",
+    "finder"
+  ],
+  "author": "fiandev",
+  "license": "MIT"
+}
